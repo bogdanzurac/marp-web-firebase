@@ -5,4 +5,4 @@ This project is a helper containing Firebase Cloud Functions for the MARP projec
 
 ## 📜 License
 
-This project is licensed under the Apache License, Version 2.0 - see the [LICENSE.md](https://github.com/bogdanzurac/marp-web-firebase/blob/master/LICENSE) file for details
+This project is licensed under the Apache License, Version 2.0 - see the [LICENSE.md](https://github.com/bogdanzurac/marp-web-firebase/blob/main/LICENSE) file for details
